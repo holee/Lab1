@@ -1,0 +1,18 @@
+{
+  "resources/images/php.jpg": {
+    "file": "assets/php.338e9825.jpg",
+    "src": "resources/images/php.jpg"
+  },
+  "resources/js/app.js": {
+    "file": "assets/app.dd419db1.js",
+    "src": "resources/js/app.js",
+    "isEntry": true,
+    "css": [
+      "assets/app.28a21df5.css"
+    ]
+  },
+  "resources/js/app.css": {
+    "file": "assets/app.28a21df5.css",
+    "src": "resources/js/app.css"
+  }
+}
